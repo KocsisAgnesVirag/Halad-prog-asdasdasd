@@ -1,0 +1,1 @@
+1. visual studio code-ban nem lehet az összes kiírt sort törölni. megkérdeztem az ai képes lenne e rá, adott egy kódot ami ugyan úgy nem működött, folytattam visual studio 2022-ben a kódom. Ott működik az én kódom is.
